@@ -81,7 +81,7 @@
   <h2>redes sociales </h2>
   <p>instragram:koajmoda
   facebook:koajmoda
-  pagina:koaj
+  pagina:koaj....
   </p>
 
 </div>
